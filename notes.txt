@@ -1,0 +1,24 @@
+what is RWd?
+responsive web design=> the design of the website should be suitable for all devices.
+it should not collapse when we do inspect.
+
+for make a web design responsive , we can use bootsrtap.
+what is bootstrap?
+ it is a inbuilt framework, it is always desig for mobile first approach
+
+ how to use bootsrtap?
+ two ways to use bootstarp in ur file.
+
+ 1. link cdn method(priority)
+ 2. download => we can downlaod the files of bootstarp from the website and u can link 
+ it in your particular file manually.
+
+ grid system=> container=> row (n no of rows)=> columns(1*12)
+
+ why?12
+ 12=> 
+ 6/6
+ 4/4/4
+ 3/3/3/3
+ 2/2/2/2/2/2
+
